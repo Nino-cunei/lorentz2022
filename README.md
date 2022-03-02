@@ -1,5 +1,7 @@
 ![poster](assets/poster.png)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6323316.svg)](https://doi.org/10.5281/zenodo.6323316)
+
 # lorentz2022
 
 Proceedings of the Lorentz Workshop:
