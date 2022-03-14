@@ -8,7 +8,9 @@ Program: [Workshop website at Lorentz Center](https://www.lorentzcenter.nl/secur
 Messaging: Join the ancient-data slack team] (see the live google doc for the link) for improved communication
 on channel [#lorentz2022](https://ancient-data.slack.com/archives/C033788DK6Z).
 
-Consolidating: GitHub repository [lorentz2022](https://github.com/Nino-cunei/lorentz2022), 
+Consolidating: GitHub repository [lorentz2022](https://github.com/Nino-cunei/lorentz2022),
+releases archived at Zenodo
+[DOI /10.5281/zenodo.6323316](https://doi.org/10.5281/zenodo.6323316).
 
 Human: If all else fails, call Dirk Roorda at his telephone number (see the live google doc).
 
