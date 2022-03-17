@@ -2,8 +2,6 @@
 
 # Monday Group 1
 
-[Back to program](https://docs.google.com/document/d/1q6uubXnUPv-RRNAmCsAVA0cUlv7GKPF_bjXS4vMIkWY/edit?usp=sharing)
-
 Clay envelopes: function, format, history (De Boer)
 
 

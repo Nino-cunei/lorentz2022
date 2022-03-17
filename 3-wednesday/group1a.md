@@ -1,9 +1,5 @@
-<!-- Output copied to clipboard! -->
-
 
 # Wednesday afternoon Group 1
-
-[Back to program](https://docs.google.com/document/d/1GOKwR2LbpfNVg7i21ojKSwvFZ5Ajzmi8cpF9yN1WXEQ/edit?usp=sharing)
 
 Sumerian Networks: Linked Data Models from ORACC to Wikibase (Anderson)
 

@@ -2,9 +2,6 @@
 
 * Monday keynotes
 
-[Back to program](https://docs.google.com/document/d/1q6uubXnUPv-RRNAmCsAVA0cUlv7GKPF_bjXS4vMIkWY/edit?usp=sharing)
-
-
 # **Keynote 1**: 
 
 Notes

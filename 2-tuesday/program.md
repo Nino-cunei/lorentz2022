@@ -1,7 +1,5 @@
 ## Tuesday
 
-[back to workshop dashboard](../program.md)
-
 
 ## Surface scanning techniques: studying incision, manipulation, wrapping
 

@@ -1,0 +1,30 @@
+Research question	discipline	people
+sender-message-recipient: secure communication, how does the coding work (almost Shannon!). Scribal traditions, transmission history.	assyriology, geoscience, archaeology	Jana
+Standardization (conducive to collection forming)	graph theory	Cecile
+Handling of tablets, in antiquity and in modern times	ethics, curation	Cecile
+geometry of signs, parameters of the shapes	pattern recognition	Hubert
+digital twins	research infrastructure	Hubert
+original provenance: separation creation from deposition provenance (clay).	geoscience + data science	Ed
+Interoperability between standards rather than adherence to a singl standard	research infrastructure	Ed
+texts as artefacts: fingerprints on tablets and envelopes, etc in order to understand production of documents, identity and authorship	archaeology, forensics, geology	Lucy
+Preservation of objects: imaging, cataloguing, dissemination	archival science	Jon
+Ink, stylus, wedge order, scribal hands	paleography, CT, XRF	Jon
+The clay of tablets as proxy to paleo climate (bi-directional information flow between tablets and climate). Input needed: fragments of tablets. Destructive methods. Boring holes.	archaeology, climate science, assyriology	Dominique & co 
+Human element: prosographical disambiguation, named entiity recognition by machine learning and deep learning	philology, computer science, natural language processing, computational linguistics	Adam
+collecting all research data about cuneiform tablets, represent it all in Linked Open Data	informatics (library science), assyriology	Adam
+Understanding how can modern techniques of annotation support traditional assyriological reseaerch; i.e. how to apply the tools like Gigamesh	methodology, research practice	Hendrik
+Understanding the information obtained by portable XRF and subsequent statistical methods and what it tells about tablets	statistics, assyriology	Hendrik
+Quality and quantity of data through ethics of science. What new data do we need?	ethics, methodology	Mohammed
+Update the role of technology in assyriology, because of the ever developing nature of technology. Who will curate the digital data?	long-term preservation, IT	Mohammed
+Improvement/standardization of workflow for obtaining 3D surfaces, color, textures: nail down what is good for what.	image processing, scanning	Kaj
+How good is a digital twin in supplying research data as compared to the real object? How well can we do research in silico? Again: standardization needed.	archaeology, philology, methodology	Kaj
+Combining different media. Linked Open Data. Digital representation of palaeography. Standards for dictionaries, characters.	IT, informatics, paleography	Timo
+Information exchaange and communication within the field	Informatics.	Petr
+What deviations exists: the strange things, the exceptions: is there a pattern in the exceptions?	Computational linguistics	Petr
+Understand physical tablets. Especially the latter prt of the life cycle: how afre they recycled and re-used? Understand the depositional context. And vice versa: information flow from the context to the tablets. Content, context and administrative practices.	archaeology, assyriology	Victor
+Quality assurance before you can do: reconstruction of a culture and making that culture understandable. Jigsaw in silico.	Geography, archaeology, assyriology	Doris
+Testbed for methods like computer tomography. Unified approach to sort the resulting data. Add physical annotations as extra layers to the digital twins. How to store and present this data for users?	Computer tomography, physical scanning methods, informatics, modeling, physics	Jaroslav
+Artist authentication by means of imprints and brush strokes on Rijksmuseum collection. Are imprints from palms or fingers? Wants to have a virtual research environment.	IT, research infrastructure	Dzemila
+Use linguistic features for provenance research.	Linguistics, assyriology	Jonas
+Archival preservation through the ages, produced by historical processes. The materiality of the archive.	Archaeology, history, sociology, economy	Caroline
+Find a set of features that can act as a signature of a tablet/fragment, so that similarity of signature is a proxy for common provenance of the real articles. That could speed up combining the scattered fragments of tablets all over the world and bring them digitally together.	all diciplines + IT	Dirk

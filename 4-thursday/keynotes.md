@@ -1,8 +1,4 @@
-<!-- Output copied to clipboard! -->
-
 # Thursday keynotes
-
-[Back to program](https://docs.google.com/document/d/1bz536_XBWP1td0bEWT_ofq9bOfB7DAaqjGlXJEq9FoM/edit?usp=sharing)
 
 
 # **The "Scanning for Syria project"** (Ngan-Tillard etc.)

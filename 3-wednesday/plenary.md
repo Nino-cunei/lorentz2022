@@ -1,9 +1,4 @@
-<!-- Output copied to clipboard! -->
-
-
 # Wednesday afternoon Q1234
-
-[Back to program](https://docs.google.com/document/d/1GOKwR2LbpfNVg7i21ojKSwvFZ5Ajzmi8cpF9yN1WXEQ/edit?usp=sharing)
 
 
 ## Q0 Discussion about data security

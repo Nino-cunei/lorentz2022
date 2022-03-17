@@ -3,8 +3,6 @@
 
 # Tuesday Group 2
 
-[Back to program](https://docs.google.com/document/d/1IdiIwnQaMAUXxAvFm_pczsXROweZ9Mqr3p5mDot8Lxk/edit?usp=sharing)
-
 Rope, textile and reed mat traces on Neolithic pottery (Berghuijs)
 
 Basketry is a source of data on techniques and materials that a society has been using.

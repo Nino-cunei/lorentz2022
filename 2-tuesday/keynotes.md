@@ -3,8 +3,6 @@
 
 # Tuesday keynotes
 
-[Back to program](https://docs.google.com/document/d/1IdiIwnQaMAUXxAvFm_pczsXROweZ9Mqr3p5mDot8Lxk/edit?usp=sharing)
-
 
 # **Keynote 1m**: Sign, fingerprint and handwriting recognition in digital cuneiform projects (Mara)
 

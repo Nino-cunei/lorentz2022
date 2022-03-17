@@ -1,9 +1,5 @@
-<!-- Output copied to clipboard! -->
-
 
 # Wednesday Group 1
-
-[Back to program](https://docs.google.com/document/d/1GOKwR2LbpfNVg7i21ojKSwvFZ5Ajzmi8cpF9yN1WXEQ/edit?usp=sharing)
 
 Getting element-specific information from the pristine interior bulk of precious objects, non-invasively (Van Eijck)
 

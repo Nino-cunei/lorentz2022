@@ -1,21 +1,16 @@
-<!-- Output copied to clipboard! -->
-
-
 # Thursday Plenary 1
 
-[Back to program](https://docs.google.com/document/d/1bz536_XBWP1td0bEWT_ofq9bOfB7DAaqjGlXJEq9FoM/edit?usp=sharing)
-
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1lBlFaqTkRJuynHP6Ha4yhH_jhkmCjuEdbIycfC9ESFs/edit?usp=sharing) of network of participants, disciplines, etc.
+[Spreadsheet](network.tsv) of network of participants, disciplines, etc.
 
 Mindmap
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+![alt_text](images/image1.png "image_tooltip")
 
 
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![alt_text](images/image2.png "image_tooltip")
 
 
 
