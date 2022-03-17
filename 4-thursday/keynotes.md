@@ -1,0 +1,61 @@
+<!-- Output copied to clipboard! -->
+
+# Thursday keynotes
+
+[Back to program](https://docs.google.com/document/d/1bz536_XBWP1td0bEWT_ofq9bOfB7DAaqjGlXJEq9FoM/edit?usp=sharing)
+
+
+# **The "Scanning for Syria project"** (Ngan-Tillard etc.)
+
+Notes
+
+
+# **Keynote 1m**: Protection of digital images data of cuneiform tablets in the Iraq museum, collection (al Mimar)
+
+New ways of saving data about cuneiform tablets in the Iraqi Museum after 2003
+
+
+
+* Photography
+    * Conforming to cdli standard
+* Database 
+    * Not yet online (pending authorization from the gov.?)
+    * Includes information about the documentation of the excavations on film
+* 3D scan
+
+Rients: There are movies of the excavations. Will they be digitised?
+
+A: At the moment they are not. There are 1000 films, several types, reels, vhs. 
+
+Kaj: objects have left digital traces all over the world. How to reconnect the digital bits back to the original objects? It seems we need institutional authority to manage the “nodes” (concept nodes, identifiers) so that others can link to those. That would be an important first step, and it does not yet involve copyright issues. Because people with the photos just add an identifier to their own materials.
+
+
+# **Keynote 2m**: Multidisciplinary information systems of cuneiform texts (Mynářová, Zemanek) 
+
+Types of analyses
+
+
+
+* Description of the objects
+* (digital) models
+* Philological and linguistic analysis
+* Cultural context data
+
+Needed: Sharing of Data -> Problems / open questions:
+
+
+
+* Technical issues
+* Standardization
+* Data security
+
+
+# **Insights in cuneiform tablet restauration** (audio interview by Jon Taylor with Carmen Gütschow from the Thin End of the Wedge podcast series)
+
+Notes
+
+
+# **Keynote 1a**: Text fabric: computational environments for cuneiform text data (Roorda)
+
+Notes
+
