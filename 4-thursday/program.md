@@ -8,13 +8,13 @@ _Chair: Mara_
 
 _Moderators: Bruhn, Klinkenberg_
 
-**9:00 [The "Scanning for Syria project"](https://docs.google.com/document/d/18lN_UOPogjZ4TAXWjcYdcyP2usjfRKk-Kf-rm4Ha-2w/edit?usp=sharing)** (Ngan-Tillard etc.)
+**9:00 The "Scanning for Syria project"** (Ngan-Tillard etc.)
 
-**9:15 [Keynote 1m](https://docs.google.com/document/d/18lN_UOPogjZ4TAXWjcYdcyP2usjfRKk-Kf-rm4Ha-2w/edit?usp=sharing)**: Protection of digital images data of cuneiform tablets in the Iraq museum
+**9:15 Keynote 1m**: Protection of digital images data of cuneiform tablets in the Iraq museum
 
 collection (al Mimar)
 
-**9:45 [Keynote 2m](https://docs.google.com/document/d/18lN_UOPogjZ4TAXWjcYdcyP2usjfRKk-Kf-rm4Ha-2w/edit?usp=sharing)**: Multidisciplinary information systems of cuneiform texts (Mynářová, Zemanek) 
+**9:45 Keynote 2m**: Multidisciplinary information systems of cuneiform texts (Mynářová, Zemanek) 
 
 **10:15 Coffee**
 
@@ -22,14 +22,14 @@ collection (al Mimar)
 
 
 
-* [Introduction to the Haft Tappeh project](https://docs.google.com/document/d/11B6wFjAQ5tcUmCGlQvTgUs9xcjy2D1Qemblix9v9hGs/edit?usp=sharing) (Prechel)
+* Introduction to the Haft Tappeh project (Prechel)
 * Hands-on session: Live presentation of the cuneiform workbench of the Haft Tappeh project (Homburg)
 
 **12:30 Panel discussion**
 
 _Panelists: al Mimar, Taylor, Kertai, Waal, Hameeuw, Mynářová, Prechel, de Boer, Ngan-Tillard, Vallach_
 
-[Document for all questions](https://docs.google.com/document/d/1rKZLOz2zIRTCKDG85pvnwiUZh-3ULh0P-vfc2DgMs3c/edit?usp=sharing).
+[Document for all questions](q1.md).
 
 
 
@@ -42,15 +42,15 @@ _Panelists: al Mimar, Taylor, Kertai, Waal, Hameeuw, Mynářová, Prechel, de Bo
 
 # Stock-taking: developing a toolkit for our consortium
 
-**14:30 [Keynote 1a](https://docs.google.com/document/d/18lN_UOPogjZ4TAXWjcYdcyP2usjfRKk-Kf-rm4Ha-2w/edit?usp=sharing)**: Text fabric: computational environments for cuneiform text data (Roorda) 
+**14:30 Keynote 1a**: Text fabric: computational environments for cuneiform text data (Roorda) 
 
-**15:00[ Insights in cuneiform tablet restauration](https://docs.google.com/document/d/18lN_UOPogjZ4TAXWjcYdcyP2usjfRKk-Kf-rm4Ha-2w/edit?usp=sharing)** (audio interview by Jon Taylor with Carmen Gütschow from the _[Thin End of the Wedge](https://www.listennotes.com/podcasts/thin-end-of-the-wedge-jon-taylor-MAoDXu7nFVe/)_ podcast series)
+**15:00 Insights in cuneiform tablet restauration** (audio interview by Jon Taylor with Carmen Gütschow from the _[Thin End of the Wedge](https://www.listennotes.com/podcasts/thin-end-of-the-wedge-jon-taylor-MAoDXu7nFVe/)_ podcast series)
 
 _Chair: De Boer_
 
 _Moderators: Van Eijck, Waerzeggers_
 
-**15:15 [Plenary session (prep)](https://docs.google.com/document/d/1nwl-Krhec33Tu1F6ltT-0MaPw_l0UvWS77jDEH68WSA/edit?usp=sharing)**
+**15:15 Plenary session (prep)**
 
 Think about _personal aims_ and _1 or 2 research questions_ that you want to pursue, with a view of integrating that in a new project.
 
@@ -67,9 +67,9 @@ _Chair: Dieudonné_
 
 _Moderators: Ngan-Tillard, Van Eijck, Waerzeggers_
 
-**16:30 [Plenary session](https://docs.google.com/document/d/1nwl-Krhec33Tu1F6ltT-0MaPw_l0UvWS77jDEH68WSA/edit?usp=sharing)**
+**16:30 Plenary session**
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1lBlFaqTkRJuynHP6Ha4yhH_jhkmCjuEdbIycfC9ESFs/edit?usp=sharing) of network of participants, disciplines, etc.
+[Spreadsheet](network.tsv) of network of participants, disciplines, etc.
 
 Take stock of who we are, what we do, and what plans we can make, in which fields, for which research questions
 

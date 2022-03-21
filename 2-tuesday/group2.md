@@ -1,6 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-
 # Tuesday Group 2
 
 Rope, textile and reed mat traces on Neolithic pottery (Berghuijs)

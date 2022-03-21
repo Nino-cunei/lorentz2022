@@ -1,6 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-
 # Tuesday Group 1
 
 Imaging with Multi-Light Reflectance dome methods (Hameeuw)

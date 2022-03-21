@@ -1,6 +1,5 @@
 # Wednesday keynotes
 
-
 # **Keynote 1m:** Provenance analysis of clay texts: state of the art and prospects (Stratford)
 
 Recommendations for future XMRF activities
@@ -9,6 +8,24 @@ Recommendations for future XMRF activities
 
 * endorse and use a single calibration source appropriate for ceramics 
 * design projects with sensitivity to scientific, technical, archaeological and historical complexities
+
+Edward Stratford will discuss only about pXRF (portable X-ray fluorescence)
+
+
+
+* During 2015-2016, 2158 objects were scanned (machines: Bruker)
+* He hopes all future projects endorse and use a single calibration source appropriate for ceramics (he suggests BRICC)
+* He mentions the following paper “Non-destructive analysis of cuneiform tablets using pXRF (Yuval Goren et al.)
+* He mentions another paper: title
+* What he does: quantitative map of spectrum profiles  spectrum of different elements calculates net peak area under peak for each material and takes that number for further analysis
+* Challenges: variation between different machines
+* Technical challenge: Syrian corpus is a large one  finding locations of text is challenging, there is also text that could be located with “medium” and “high certainty” 
+* He shows PC plot: we see data well separated and some overlaps. For example, the PC analysis shows heavy overlaps is seen on Anatolia Pottery samples
+
+Note from the audience: 
+
+* pXRF is a great tool but take care of geo-chemical aspects. 
+* Regarding overlaps and separation of point clouds on PC plots: there are materials dependent one to the other, that shouldn’t be separated on the PC plot
 
 
 ## Response by Van Os
@@ -51,12 +68,16 @@ Uchida has tablets with low Mn concentrations like the measured NINO tablets hav
 
 In general, would it be worth archiving together with the p-XRF data the photos showing where the p-XRF beam impacted the tablets to control the homogeneity of a zone? Possibly for data screening. Might also serve for preservation issues? The Mn stains result from bacterial activity and can develop in musea. Right?
 
- 
-
 
 # **Keynote 2m**: Clay tablets as containers of data on the palaeoenvironment (Watanabe et al.) 
 
-Notes
+
+
+* Clay deposits (clay pits) can be residual and sedimentary (cited from Quinn et al.)
+* Figurines made of clay from: riverbank, city ditch, riverine meadow, a clay pit (Van Buylaere et al, 2019: “Ritual to consecrate and purify clay from clay pit”)  after this ritual, there was incense on clay with silver and gold.
+* Watanabe carried on biological investigation on several collections from British Museum (99 tablets), Yale Babylonian collection (19 tablets), Sulaymaniyah Museum (20 tablets) over several years.
+* She found: coccolith (poor preservation), microforaminifer, cymbella neocistula, epithema odnate, diatoms
+* Conclusions: they found marine microfossils but couldn’t date them  suggests that clay was taken from marine sediments  rivers sediments and clay pit
 
 
 # **Keynote 1a**: The organization of knowledge in the earliest cuneiform texts (Johnson)
@@ -97,7 +118,12 @@ But there is no linguistic substrate, no phonology (at least that we know of).
 
 # **Keynote 2a**: The archaeological context of cuneiform tablets: archives or rubbish? (Klinkenberg and Düring)
 
-Notes
+
+
+* He explains that what we see today are depletions of original archives. How were tablets deposited? Why were they deposited in that way? 
+* Deposit origins: 1) unintentional (catastrophe, loss) 2) intentional (discard, burial, cashing)
+* Biography of a table (=the multiple steps involved mean that there are several steps before being deposited)   tablet is 1) produced 2) used 3) broken 4,5) missing text 6) deposited
+* According to him, tablets were thrown away in bins, taking care these were first broken, and then carried away in bigger deposits. He thinks most of the tablets were discarded items
 
 Object life: chaine operatoire -> writing and use -> reuse and deposition
 
@@ -140,10 +166,17 @@ That is a symbolic notion, of course, and cannot be directly derived from the da
 ![alt_text](images/image1.png "image_tooltip")
 
 
-3**2 + 4**2 = 5**2 (Pythagoras).
+```
+3**2 + 4**2 = 5**2
+```
+
+(Pythagoras).
 
 
-
+* Scribes from Babylonia are pretty uniform
+* Are there individual scribal hands?  Muller and Pirnbruger 2019
+* There is formal vs informal writing: shift of register, different level of attention
+* There exist fingerprints but not many (the general conclusion from speaker and audience is that there are not many fingerprints because they wanted tablets to be as clean as possible)
 * Standardization in Eanna: ratio of height and width standardized
     * Landscape format (3:4)
 * variations in scribal culture due to

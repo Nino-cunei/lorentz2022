@@ -1,9 +1,6 @@
 # Wednesday afternoon Q1234
 
-
 ## Q0 Discussion about data security
-
-
 
 * Two kinds of securing:
     * Protecting the object

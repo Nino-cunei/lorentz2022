@@ -1,4 +1,3 @@
-
 # Wednesday afternoon Group 1
 
 Sumerian Networks: Linked Data Models from ORACC to Wikibase (Anderson)

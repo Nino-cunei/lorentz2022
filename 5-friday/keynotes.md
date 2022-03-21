@@ -3,6 +3,7 @@
 # **Informal meetin**g with grant advisers from LURIS (Kelder) 
 
 
+
 1. ERC-Synergy 10M€ (european partners, research grant). Gives everything you need, but moderate success rate, but that should not deter us.
 2. “Adobe”-approach when backbone is in place: for visiting and communication (staff exchange)
     1. Marie Curie (start exchange, postdocs) 4yrs (3 eu partners)
@@ -48,11 +49,11 @@ Adobe approach: partners secure funding in their own countries and work together
 
 Rients: private funding. Is that interesting?
 
-Andrew Mellon could be interesting. Dzemila knows of grants (Rijksmuseum, art history).
+Andrew Mellon could be interesting. Dzemila knows of grants ([Rijksmuseum](https://www.rijksmuseum.nl/en/education/university-education/fellowship), art history [NICAS](https://www.nicas-research.nl/)).
 
 Wellcome Trust. Must be looked into.
 
-Lucy: early career reseaerchers. What opportunities for them?
+Lucy: early career researchers. What opportunities for them?
 
 A: Hänkel Stiftung. In NL: NWO-Veni. Europe: ERC. Or Marie Curie, only in a country where you have not been the last 4 yrs.
 

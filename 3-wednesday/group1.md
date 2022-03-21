@@ -1,4 +1,3 @@
-
 # Wednesday Group 1
 
 Getting element-specific information from the pristine interior bulk of precious objects, non-invasively (Van Eijck)

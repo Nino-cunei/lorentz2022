@@ -2,6 +2,17 @@
 
 Climate data in cuneiform tablets (Ludlow and McGovern)
 
+
+
+* Frequency of descriptive terms associated with the variable overcast: mostly used “very”, ‘all day”, “all night”, none
+* How were clouds described in diaries of the series Rhonda McGovern studied? “Clouds were in the sky”, “clouds”, “blank”, “clouds covered the sky”, “I did not watch”, 0other
+* Allocation of wind direction: “south”, “east”, etc.
+* She shows plots that displays frequency of recorded wind directions by month  wind direction per month
+* South-east wind: what she did was to assess occurrence with clouds, rains, storms, assess descriptive terms that describe this South-East wind  associated with terms like “gusty”, “strong”, “strong gusty”
+* Her colleagues co-authored a publication in Nature: “Timing and climate forcing of volcanic eruptions for the past 2,500 years”
+* She shows a plot where we see peak of wind reported after eruption
+* She shows a plot of ensemble mean precipitation anomaly
+
 Climate and conflict: could it be that e.g. storms were only recorded during conflict?
 
 So, only the c-ooccurrence of anomalous events climatewise and conflict wise led people to record the weather events.

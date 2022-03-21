@@ -71,7 +71,7 @@ data base standards -> interoperability
 
 Lucy Bennison-Chapman
 
-_Texts as Artefacts: Exploring clay tablet production, use and deposition in ancient Mesopotamia, via the analysis of fingerprints on clay tablets_ OR_ The production of documents in the early historic period: understanding the chain operatoire, identity and authorship via the analysis of fingerprints on clay tablets **    **_
+_Texts as Artefacts: Exploring clay tablet production, use and deposition in ancient Mesopotamia, via the analysis of fingerprints on clay tablets_ OR_ The production of documents in the early historic period: understanding the chain operatoire, identity and authorship via the analysis of fingerprints on clay tablets_
 
 RQ: Looking at texts as artifacts (production, deposition, use) fingerprints on tablets and envelopes (female, adult, child), do we have more than one person represented per artifact? how were documents produced? What’s the chaîne operatoire? Identity and authorship. Do the fingerprints match our expectations of who wrote the tablet, the envelope text, and sealed the tablet inside the envelope? 
 
