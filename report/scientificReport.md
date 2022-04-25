@@ -45,7 +45,8 @@ During the workshop several areas were identified where collaboration is likely
 to produce new knowledge that can bridge significant gaps in the
 state-of-the-art or that can improve current methodologies. Detailed reports of
 the sessions can be read in the conference proceedings that are deposited in
-zenodo, DOI 10.5281/zenodo.6323315. . In the present summary statement, some
+zenodo, [DOI 10.5281/zenodo.6323315](https://doi.org/10.5281/zenodo.6323315).
+In the present summary statement, some
 avenues for new research, and research collaborations, are highlighted, along
 with steps that can be taken towards their realization. 
 
