@@ -9,5 +9,7 @@ Proceedings of the Lorentz Workshop:
 
 Program: [pdf](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=1567&conPaginaProgrammaDagId=158&pntHandler=DownloadAction).
 
+Report: [markdown](report/scientificReport.md)
+
 The workshop was held in 2022, March 14-18, at the Lorentz CenterLeiden, NL.
 

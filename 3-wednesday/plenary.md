@@ -19,7 +19,7 @@ Ethical aspects of security -> deterrence from forging (or forced to forge!)  et
 
 Cryptography as a method for securing data?
 
-Kaj: what were the reasons that cuneiform writing fell out of use?
+Kai: what were the reasons that cuneiform writing fell out of use?
 
 Is it a protection/security matter?
 

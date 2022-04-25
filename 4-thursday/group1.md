@@ -30,7 +30,7 @@ A: go to the university of Heidelberg to download the assets.
 
 But the digital edition as such is a static web page that could be hosted anywhere.
 
-Kaj: the full 3D model is too big to view in the browser. You can download it, but there should be derived dataproducts that can readily be shown in a 3d viewer in the browser.
+Kai: the full 3D model is too big to view in the browser. You can download it, but there should be derived dataproducts that can readily be shown in a 3d viewer in the browser.
 
 Hubert:
 
@@ -44,7 +44,7 @@ C: the copy at the library, lives hopefully 50-100 years
 
 Added bonus of storing at a library: when they develop accessibility features that are generic for their holdings, the cuneiform materials can hop on with those developments.
 
-Kaj: there is no such thing as a universal store for all relevant research data. There will always be multiple systems with different lenses on the materials.
+Kai: there is no such thing as a universal store for all relevant research data. There will always be multiple systems with different lenses on the materials.
 
 So what is needed: the ability to link objects across systems. That’s a community task.
 

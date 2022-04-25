@@ -8,7 +8,7 @@ Cale: **cookbooks**. We need lab notebooks for cuneiform, that contain reproduci
 
 This is a methodology consideration.
 
-I6 also helps to get new technologies into the classroom, and from there on firm footing in academic research.
+It also helps to get new technologies into the classroom, and from there on firm footing in academic research.
 
 One institution needs to spearhead the collaboration
 
@@ -22,7 +22,7 @@ Very successful (outdated) cookbook from another field [here](https://www.gaia-g
 
 There should be someone (institution) that maintains a series of such cookbooks, producing 100-page introduction into for example the analysis of old babylonian syntax
 
-Caroline, Kaj: need a catalogue (inventory) of techniques/technologies related to the purposes they are for, with tutorial-like introductions into the same methods.
+Caroline, Kai: need a catalogue (inventory) of techniques/technologies related to the purposes they are for, with tutorial-like introductions into the same methods.
 
 Technologies tend to be tied to specific corpora of texts. This creates difficulties. Cookbooks help to make clear which methods are known to be working for which corpora.
 
@@ -83,15 +83,15 @@ Dzemila:
 
 (try Susan Schreibman and Costas Papadopoulos, Maastricht University. Also see Remaking Material Culture on [dariah-teach](https://teach.dariah.eu/course/view.php?id=55).) 
 
-Kaj: Provenience versus provenance.
+Kai: Provenience versus provenance.
 
 Rients: Tablet as a **Databomb** (Datatreasure), with information contained with in, inscribed upon and formed around
 
-Dirk: tablet at **lens**, like a gravity lens in astronomy: one galaxy bends the light and acts as a lens to see further galaxies sharper. Also: new techniques see _through_ the clay. And more metaphorically, through the clay we see the context of the tablets.
+Dirk: tablet as **lens**, like a gravity lens in astronomy: one galaxy bends the light and acts as a lens to see further galaxies sharper. Also: new techniques see _through_ the clay. And more metaphorically, through the clay we see the context of the tablets.
 
 Caroline:
 
-**~ Tablet as data container on the ancient and natural environment ~**
+**~ Tablet as data container on the ancient human and natural environment ~**
 
 
 
@@ -100,7 +100,7 @@ Caroline:
         * Inside of the clay
         * Conservation
         * Context
-    * Involving a big museum -> possible with BM? Or problematic expecially w/ the ERC?
+    * Involving a big museum -> possible with BM? Or problematic especially w/ the ERC?
 
 Caroline: is this consortium poised to generate new knowledge? 
 

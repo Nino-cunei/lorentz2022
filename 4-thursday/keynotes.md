@@ -37,7 +37,7 @@ Rients: There are movies of the excavations. Will they be digitized?
 
 A: At the moment they are not. There are 1000 films, several types, reels, vhs. 
 
-Kaj: objects have left digital traces all over the world. How to reconnect the digital bits back to the original objects? It seems we need institutional authority to manage the “nodes” (concept nodes, identifiers) so that others can link to those. That would be an important first step, and it does not yet involve copyright issues. Because people with the photos just add an identifier to their own materials.
+Kai: objects have left digital traces all over the world. How to reconnect the digital bits back to the original objects? It seems we need institutional authority to manage the “nodes” (concept nodes, identifiers) so that others can link to those. That would be an important first step, and it does not yet involve copyright issues. Because people with the photos just add an identifier to their own materials.
 
 
 # **Keynote 2m**: Multidisciplinary information systems of cuneiform texts (Mynářová, Zemanek) 

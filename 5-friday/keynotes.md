@@ -55,11 +55,11 @@ Wellcome Trust. Must be looked into.
 
 Lucy: early career researchers. What opportunities for them?
 
-A: Hänkel Stiftung. In NL: NWO-Veni. Europe: ERC. Or Marie Curie, only in a country where you have not been the last 4 yrs.
+A: Gerda Henkel Stiftung. In NL: NWO-Veni. Europe: ERC. Or Marie Curie, only in a country where you have not been the last 4 yrs.
 
 Jana: in 2020 something started: [WEAVE](https://weave-research.net). Fair amount of countries, no NL, also outside Europe. For bi/trilateral projects.
 
-Kaj: data management requirements? 
+Kai: data management requirements? 
 
 A: important, you have to commit some resources to it, making agreement with home institutions, not terribly difficult to comply. Open Access is the norm, unless something cannot be published for reasons of copyright, privacy, protection.
 
